@@ -11,6 +11,7 @@ Constrained Probabilistic Matrix Factorization in Python
 
 
 How to make it work:
+
     1. Create a separate directory and download all these files into the same directory
 
     2. Download the following 2 files:
