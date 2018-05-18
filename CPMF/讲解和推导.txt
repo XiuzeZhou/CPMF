@@ -1,0 +1,1 @@
+Constrained PMF论文详细的讲解和推导过程请看：https://zhuanlan.zhihu.com/p/35091371
