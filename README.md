@@ -17,6 +17,7 @@ How to make it work:
     2. Download the following 2 files:
         1) CPMF.py: Main file for training CPMF
         2) u.data: MovieLens 100k data set
+        
     3. Run CPMF.py
 
 
